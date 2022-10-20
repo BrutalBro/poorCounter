@@ -1,4 +1,4 @@
-# PeopleOrientedObjectRecCounter
+# PeopleCounter
 
 Just a try to track and count objects on a video. Nothing special.
 
